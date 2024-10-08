@@ -1,0 +1,11 @@
+### VS Code ###
+.vscode/
+
+### STM32 CMake ###
+RelWithDebInfo/
+MinSizeRel/
+Debug/
+Release/
+.ninja_deps
+.ninja_log
+
